@@ -1,6 +1,6 @@
 /*
  * File: Destroyer.java
- * 		 This file contains the JMenubar for the grid.
+ * 		 This file place the Destroyer on board.
  * 
  * 
  * Date: 11/16/2017

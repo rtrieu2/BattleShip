@@ -1,6 +1,6 @@
 /*
  * File: BattleShip.java
- * 		 This file contains the JMenubar for the grid.
+ * 		 This file place the BattleShip on board.
  * 
  * 
  * Date: 11/16/2017

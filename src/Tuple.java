@@ -1,6 +1,6 @@
 /*
  * File: Tuple.java
- * 		 This file contains the JMenubar for the grid.
+ * 		 his file used to get the index of cell.
  * 
  * 
  * Date: 11/16/2017
@@ -15,7 +15,7 @@
  * 		Name   : Ronald Trieu
  * 		Net ID : rtrieu2
  *  
- *  	Name   : Hend Khalil
+ *  	        Name   : Hend Khalil
  * 		Net ID : hkhali2
  * 
  * 		Name   : Priyank Patel

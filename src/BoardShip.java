@@ -1,6 +1,6 @@
 /*
  * File: BoardShip.java
- * 		 This file contains the JMenubar for the grid.
+ * 		 This file contains ships button with icon on the board.
  * 
  * 
  * Date: 11/16/2017

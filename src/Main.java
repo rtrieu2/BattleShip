@@ -1,6 +1,6 @@
 /*
  * File: Main.java
- * 		 This file contains the JMenubar for the grid.
+ * 		 This file contains the Main method.
  * 
  * 
  * Date: 11/16/2017
